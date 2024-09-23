@@ -7,11 +7,11 @@
 # 3 - What is the command for going "up" a folder (to a parent directory)?
       # cd ~/"parent directory"
 # 4 - What is a quick way to create a new folder?
-     # 
+     # mkdir
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
      # No such file or directory
 # 6 - What is a quick way to create a new file?
-     #mkdir 
+     #touch new-file."what ever file you want"
 # 7 - Run 'git --version' in your terminal. What is the output?
       #git version 2.39.5 (Apple Git-154)
 # 8 - Why would you run the command 'git status'?
